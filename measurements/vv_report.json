@@ -1,0 +1,12 @@
+{
+  "checks": {
+    "pure_cents_near_known": true,
+    "tempered_residual_near_zero": true,
+    "tempered_ratio_identity": true,
+    "pure_residual_file_untouched": true
+  },
+  "all_passed": true,
+  "pure_cents": 23.460010384649546,
+  "tempered_log_residual": 8.881784197001252e-16,
+  "tempered_fifth_ratio": 1.4983070768766815
+}
